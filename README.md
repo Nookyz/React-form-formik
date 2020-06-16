@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # React-form with formik
 
+[Live demo](https://nookyz.github.io/React-form-formik/)
+
 ## Install dependencies
 
 ### `npm install` 
